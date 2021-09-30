@@ -1,0 +1,4 @@
+rootProject.name = 'CodeTestOslash'
+include 'selenium'
+include 'selenium-web-component'
+
